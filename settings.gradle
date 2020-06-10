@@ -1,0 +1,2 @@
+rootProject.name='Konovodov_HW_5.2.1_Internal_External_File'
+include ':app'

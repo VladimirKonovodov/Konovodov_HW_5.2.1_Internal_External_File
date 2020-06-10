@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Konovodov_HW_5.2.2_Internal_External_File</string>
+    <string name="login">login</string>
+    <string name="enter">enter</string>
+    <string name="enter_password">enter_password</string>
+    <string name="registration">registration</string>
+    <string name="Btn_Check_is_Pushed">
+        "Btn_Check_is_Pushed"
+        </string>
+    <string name="Btn_Check_is_Not_Pushed">
+        "Btn_Check_is_Not_Pushed"
+        </string>
+</resources>
